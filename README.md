@@ -9,6 +9,7 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | Activity | What it covers |
 | :-- | :-- |
 | [Botium Toys: Controls and Compliance Checklist](google-cyber-cert/botium-toys-controls-compliance-checklist.md) | Internal security audit: controls assessment, PCI DSS / GDPR / SOC compliance review, and prioritized risk recommendations |
+| [Network Traffic Analysis: Incident Report](google-cyber-cert/network-traffic-analysis-incident-report.md) | Incident report on a DNS/ICMP tcpdump log: "udp port 53 unreachable" error, likely causes, and next steps |
 
 ## TryHackMe
 
