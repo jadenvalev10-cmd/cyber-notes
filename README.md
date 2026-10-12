@@ -11,6 +11,7 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | [Botium Toys: Controls and Compliance Checklist](google-cyber-cert/botium-toys-controls-compliance-checklist.md) | Internal security audit: controls assessment, PCI DSS / GDPR / SOC compliance review, and prioritized risk recommendations |
 | [Network Traffic Analysis: Incident Report](google-cyber-cert/network-traffic-analysis-incident-report.md) | Incident report on a DNS/ICMP tcpdump log: "udp port 53 unreachable" error, likely causes, and next steps |
 | [Network Attack Incident Report: SYN Flood](google-cyber-cert/network-attack-incident-report-syn-flood.md) | Incident report on a Wireshark TCP/HTTP log: identifying a single-source SYN flood (DoS), how it exhausts the server and causes timeouts, and prevention measures |
+| [Security Incident Report: Redirected Web Traffic](google-cyber-cert/security-incident-report-brute-force.md) | Incident report on a tcpdump log: HTTP over TCP/IP layers, DNS lookups and a redirect to a second domain, and account lockout as a brute force remediation |
 
 ## TryHackMe
 
