@@ -12,6 +12,7 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | [Network Traffic Analysis: Incident Report](google-cyber-cert/network-traffic-analysis-incident-report.md) | Incident report on a DNS/ICMP tcpdump log: "udp port 53 unreachable" error, likely causes, and next steps |
 | [Network Attack Incident Report: SYN Flood](google-cyber-cert/network-attack-incident-report-syn-flood.md) | Incident report on a Wireshark TCP/HTTP log: identifying a single-source SYN flood (DoS), how it exhausts the server and causes timeouts, and prevention measures |
 | [Security Incident Report: Redirected Web Traffic](google-cyber-cert/security-incident-report-brute-force.md) | Incident report on a tcpdump log: HTTP over TCP/IP layers, DNS lookups and a redirect to a second domain, and account lockout as a brute force remediation |
+| [Security Risk Assessment: Network Hardening](google-cyber-cert/security-risk-assessment-network-hardening.md) | Security risk assessment after a data breach: shared and default passwords, no MFA, and unfiltered firewalls, with MFA, password policy, and firewall maintenance as hardening fixes |
 
 ## TryHackMe
 
