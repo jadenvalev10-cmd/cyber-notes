@@ -14,6 +14,7 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | [Security Incident Report: Redirected Web Traffic](google-cyber-cert/security-incident-report-brute-force.md) | Incident report on a tcpdump log: HTTP over TCP/IP layers, DNS lookups and a redirect to a second domain, and account lockout as a brute force remediation |
 | [Security Risk Assessment: Network Hardening](google-cyber-cert/security-risk-assessment-network-hardening.md) | Security risk assessment after a data breach: shared and default passwords, no MFA, and unfiltered firewalls, with MFA, password policy, and firewall maintenance as hardening fixes |
 | [Incident Report Analysis: ICMP Flood and the NIST CSF](google-cyber-cert/incident-report-analysis-icmp-flood.md) | Incident report on an ICMP flood DoS attack through an unconfigured firewall, analyzed with the NIST Cybersecurity Framework: Identify, Protect, Detect, Respond, and Recover |
+| [Linux File Permissions: Manage Authorization](google-cyber-cert/linux-file-permissions-manage-authorization.md) | Reviewing file and directory permissions with ls -la, reading the 10-character permission string, and fixing over-permissive access with chmod (including a hidden file) under least privilege |
 
 ## TryHackMe
 
