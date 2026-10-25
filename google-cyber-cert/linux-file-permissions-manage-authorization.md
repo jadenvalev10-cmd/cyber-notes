@@ -1,4 +1,4 @@
-# Linux File Permissions: Manage Authorization
+l# Linux File Permissions: Manage Authorization
 
 Google Cybersecurity Certificate activity
 
