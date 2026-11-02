@@ -15,6 +15,13 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | [Security Risk Assessment: Network Hardening](google-cyber-cert/security-risk-assessment-network-hardening.md) | Security risk assessment after a data breach: shared and default passwords, no MFA, and unfiltered firewalls, with MFA, password policy, and firewall maintenance as hardening fixes |
 | [Incident Report Analysis: ICMP Flood and the NIST CSF](google-cyber-cert/incident-report-analysis-icmp-flood.md) | Incident report on an ICMP flood DoS attack through an unconfigured firewall, analyzed with the NIST Cybersecurity Framework: Identify, Protect, Detect, Respond, and Recover |
 | [Linux File Permissions: Manage Authorization](google-cyber-cert/linux-file-permissions-manage-authorization.md) | Reviewing file and directory permissions with ls -la, reading the 10-character permission string, and fixing over-permissive access with chmod (including a hidden file) under least privilege |
+| [Add and Manage Users with Linux Commands](google-cyber-cert/add-manage-users-linux.md) | Creating, modifying, and removing user accounts with useradd, usermod, chown, userdel, and groupdel, including primary vs. supplementary groups |
+| [Perform a SQL Query](google-cyber-cert/perform-sql-query.md) | Retrieving and sorting data in MariaDB with SELECT, FROM, and ORDER BY to review login activity |
+| [Filter a SQL Query](google-cyber-cert/filter-sql-query.md) | Filtering records with WHERE, exact matches, and LIKE with the % wildcard |
+| [Apply More Filters in SQL](google-cyber-cert/apply-more-filters-sql.md) | Comparison operators and BETWEEN to filter login attempts by date, time, and event ID |
+| [Apply Filters to SQL Queries](google-cyber-cert/apply-filters-to-sql-queries.md) | Combining AND, OR, NOT, and LIKE to investigate failed logins and pick out employee machines needing security updates |
+| [Complete a SQL Join](google-cyber-cert/complete-sql-join.md) | Combining tables with INNER, LEFT, and RIGHT JOINs on shared columns |
+| [Risk Register: Commercial Bank](google-cyber-cert/risk-register-bank.md) | Scoring five risks to a bank's funds by likelihood and severity (Likelihood x Impact = Risk) to set priorities |
 
 ## TryHackMe
 
@@ -41,5 +48,14 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | [The CIA Triad](tryhackme/the-cia-triad.md) | Confidentiality, integrity, and availability, and classifying security incidents by pillar |
 | [Cryptography Concepts](tryhackme/cryptography-concepts.md) | Plaintext, ciphertext, and keys, symmetric vs asymmetric encryption, and hybrid use in HTTPS |
 | [Become a Hacker](tryhackme/become-a-hacker.md) | Offensive security basics, the ethical hacker role, enumeration, and dictionary attacks |
+| [Search Skills](tryhackme/search-skills.md) | Shodan, VirusTotal, CVE/CVSS, man pages, and GitHub as places to find information |
+| [Linux Fundamentals Part 1](tryhackme/linux-fundamentals-part-1.md) | whoami, ls, cd, cat, find, grep, and the &, &&, >, and >> operators |
+| [Linux Fundamentals Part 2](tryhackme/linux-fundamentals-part-2.md) | SSH, hidden files, man pages, file management, key Linux directories, and switching users |
+| [Linux Fundamentals Part 3](tryhackme/linux-fundamentals-part-3.md) | nano, wget and scp, processes and systemctl, cron, apt packages, and reading logs |
+| [Windows Fundamentals 1](tryhackme/windows-fundamentals-1.md) | NTFS vs. FAT, System32, users and groups, UAC, and Task Manager |
+| [Windows Fundamentals 2](tryhackme/windows-fundamentals-2.md) | MSConfig, Computer Management, Event Viewer, System Information, Resource Monitor, and the Registry |
+| [Windows Fundamentals 3](tryhackme/windows-fundamentals-3.md) | Windows Update, Defender, firewall profiles, SmartScreen, BitLocker, and Volume Shadow Copy |
+| [Active Directory Basics](tryhackme/active-directory-basics.md) | Domains, domain controllers, OUs, GPOs, Kerberos vs. NetNTLM, and trusts |
+| [Windows Command Line](tryhackme/windows-command-line.md) | System, network, file, and process commands in cmd, plus ipconfig, netstat, tasklist, and sfc |
 
 Room answers and flag values are intentionally left out.
