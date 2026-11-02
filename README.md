@@ -22,6 +22,7 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | [Apply Filters to SQL Queries](google-cyber-cert/apply-filters-to-sql-queries.md) | Combining AND, OR, NOT, and LIKE to investigate failed logins and pick out employee machines needing security updates |
 | [Complete a SQL Join](google-cyber-cert/complete-sql-join.md) | Combining tables with INNER, LEFT, and RIGHT JOINs on shared columns |
 | [Risk Register: Commercial Bank](google-cyber-cert/risk-register-bank.md) | Scoring five risks to a bank's funds by likelihood and severity (Likelihood x Impact = Risk) to set priorities |
+| [Data Leak Worksheet: Least Privilege](google-cyber-cert/data-leak-least-privilege.md) | Analyzing a data leak caused by lingering folder access and a mis-shared link, reviewing NIST SP 800-53 AC-6, and recommending automatic access revocation and role-based restrictions |
 
 ## TryHackMe
 
