@@ -24,6 +24,7 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | [Risk Register: Commercial Bank](google-cyber-cert/risk-register-bank.md) | Scoring five risks to a bank's funds by likelihood and severity (Likelihood x Impact = Risk) to set priorities |
 | [Data Leak Worksheet: Least Privilege](google-cyber-cert/data-leak-least-privilege.md) | Analyzing a data leak caused by lingering folder access and a mis-shared link, reviewing NIST SP 800-53 AC-6, and recommending automatic access revocation and role-based restrictions |
 | [Decrypt an Encrypted Message](google-cyber-cert/decrypt-encrypted-message.md) | Breaking a Caesar cipher with tr, then decrypting an AES-256-CBC file with openssl, plus finding hidden files with ls -a |
+| [Create Hash Values](google-cyber-cert/create-hash-values.md) | Generating SHA-256 hashes with sha256sum, redirecting them to files, and comparing them with cmp to show two look-alike files are different |
 
 ## TryHackMe
 
