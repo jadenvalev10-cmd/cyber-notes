@@ -61,5 +61,6 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | [Windows Fundamentals 3](tryhackme/windows-fundamentals-3.md) | Windows Update, Defender, firewall profiles, SmartScreen, BitLocker, and Volume Shadow Copy |
 | [Active Directory Basics](tryhackme/active-directory-basics.md) | Domains, domain controllers, OUs, GPOs, Kerberos vs. NetNTLM, and trusts |
 | [Windows Command Line](tryhackme/windows-command-line.md) | System, network, file, and process commands in cmd, plus ipconfig, netstat, tasklist, and sfc |
+| [Windows PowerShell](tryhackme/windows-powershell.md) | Verb-Noun cmdlets, file navigation, piping with Where-Object and Select-Object, system and network info, and Get-Process, Get-Service, and Get-FileHash |
 
 Room answers and flag values are intentionally left out.
