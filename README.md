@@ -27,6 +27,7 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | [Create Hash Values](google-cyber-cert/create-hash-values.md) | Generating SHA-256 hashes with sha256sum, redirecting them to files, and comparing them with cmp to show two look-alike files are different |
 | [Access Control Worksheet: Payroll Incident](google-cyber-cert/access-control-worksheet.md) | Investigating a fraudulent payroll deposit by matching an event log IP to an employee directory, finding Admin access for everyone and a former contractor's active account, and recommending RBAC, offboarding, and MFA |
 | [Parking Lot USB Exercise](google-cyber-cert/parking-lot-usb-exercise.md) | Assessing a USB baiting scenario: the personal and work PII on a found drive, how an attacker could use it for phishing and impersonation, and technical, operational, and managerial controls to reduce the risk |
+| [PASTA Threat Model: Sneaker App](google-cyber-cert/pasta-threat-model-sneaker-app.md) | Threat modeling a new buy-and-sell mobile app through all seven PASTA stages: business objectives, API as the first technology to review, insider and external threats, SQL injection and broken authentication, and four controls (prepared statements, MFA, least privilege, encryption and salted hashing) |
 
 ## TryHackMe
 
