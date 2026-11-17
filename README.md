@@ -65,5 +65,11 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | [Active Directory Basics](tryhackme/active-directory-basics.md) | Domains, domain controllers, OUs, GPOs, Kerberos vs. NetNTLM, and trusts |
 | [Windows Command Line](tryhackme/windows-command-line.md) | System, network, file, and process commands in cmd, plus ipconfig, netstat, tasklist, and sfc |
 | [Windows PowerShell](tryhackme/windows-powershell.md) | Verb-Noun cmdlets, file navigation, piping with Where-Object and Select-Object, system and network info, and Get-Process, Get-Service, and Get-FileHash |
+| [Linux Shells](tryhackme/linux-shells.md) | Bash, Fish, and Zsh compared, plus bash scripting with variables, loops, and conditionals, ending with debugging a log-searching script |
+| [Networking Concepts](tryhackme/networking-concepts.md) | The OSI and TCP/IP models, IP addressing and subnets, UDP vs TCP, encapsulation, and talking to services by hand with Telnet |
+| [Networking Essentials](tryhackme/networking-essentials.md) | DHCP (DORA), ARP, ICMP with ping and traceroute, routing protocols, and NAT, read from tshark and tcpdump captures |
+| [Networking Core Protocols](tryhackme/networking-core-protocols.md) | DNS, WHOIS, HTTP, FTP, SMTP, POP3, and IMAP: default ports, main commands, and using them by hand over telnet |
+| [Networking Secure Protocols](tryhackme/networking-secure-protocols.md) | TLS, SSH, SFTP/FTPS, and VPNs, plus decrypting captured TLS traffic in Wireshark with a session key log |
+| [Wireshark: The Basics](tryhackme/wireshark-the-basics.md) | Wireshark panes, packet dissection, finding and exporting packets, Expert Info, display filters, and Follow Stream |
 
 Room answers and flag values are intentionally left out.
