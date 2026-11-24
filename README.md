@@ -30,6 +30,7 @@ I'm a computer science student building toward a career in cybersecurity. This r
 | [PASTA Threat Model: Sneaker App](google-cyber-cert/pasta-threat-model-sneaker-app.md) | Threat modeling a new buy-and-sell mobile app through all seven PASTA stages: business objectives, API as the first technology to review, insider and external threats, SQL injection and broken authentication, and four controls (prepared statements, MFA, least privilege, encryption and salted hashing) |
 | [Incident Handler's Journal: Ransomware](google-cyber-cert/incident-handlers-journal-ransomware.md) | First incident handler's journal entry on a ransomware attack at a health care clinic: phishing as the entry point, encrypted patient files and a ransom note, the 5 W's, and notes on backups, training, and HIPAA reporting |
 | [Wireshark vs. tcpdump: Comparing Protocol Analyzers](google-cyber-cert/wireshark-vs-tcpdump-comparison.md) | Venn diagram comparing two network protocol analyzers: Wireshark's GUI, color coding, and deep analysis vs. tcpdump's lightweight command-line capture on servers, and what they share (open source, .pcap files, and filtering) |
+| [Pyramid of Pain: Analyzing a Malicious File with VirusTotal](google-cyber-cert/pyramid-of-pain-virustotal.md) | Investigating a suspicious file hash in VirusTotal: vendor ratio and community score, then placing a hash, a malicious domain, and MITRE ATT&CK TTPs on the Pyramid of Pain |
 
 ## TryHackMe
 
